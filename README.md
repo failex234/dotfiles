@@ -6,5 +6,5 @@
 - GTK+ Theme: Breeze-Dark
 - Icon Theme: Paper Icons
 - Terminal: rxvt-unicode / urxvt
-- Terminal Font: Ubuntu moono derivative Powerline
+- Terminal Font: Ubuntu mono derivative Powerline
 
