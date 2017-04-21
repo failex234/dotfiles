@@ -1,5 +1,5 @@
 # My Setup
-## HP G250 Laptop
+## HP 250 G5 Laptop
 - OS: Arch Linux
 - Shell: zsh ([Oh my zsh](https://github.com/robbyrussell/oh-my-zsh "oh-my-zsh repo"))
 - Window Manager: [i3-gaps (i3 fork)](https://github.com/Airblader/i3 "i3-gaps repo")
